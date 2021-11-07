@@ -24,7 +24,7 @@
 
 
 * **数据采集**:DataX、Flume
-* **数据存储:**HDFS
+* **数据存储**:HDFS
 * **数据计算**:Hive、MapReduce、Spark
 * **调度系统**:Airflow 
 * **元数据管理**:Atlas
