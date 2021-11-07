@@ -25,9 +25,9 @@
 
 * **数据采集**:DataX、Flume
 * **数据存储:**HDFS
-* **数据计算:**Hive、MapReduce、Spark
+* **数据计算**:Hive、MapReduce、Spark
 * **调度系统**:Airflow 
-* **元数据管理:**Atlas
+* **元数据管理**:Atlas
 * **数据质量管理**:Griffin 
 * **即席查询**:Impala 
 * **其他**:MySQL
